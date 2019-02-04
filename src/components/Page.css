@@ -1,0 +1,21 @@
+.button {
+    margin: 1rem;
+    padding: .75rem .5rem;
+    border-radius: 7px;
+    border: none;
+    font-size: 2rem;
+}
+
+.buttonActive {
+    background: linear-gradient(to bottom right,
+    #2980B9,
+    #6DD5FA,
+    #FFFFFF);
+    color: #fff;
+}
+
+.buttonMuted {
+    background: linear-gradient(to bottom right,
+    #bdc3c7,
+    #2c3e50);
+}
